@@ -1,0 +1,7 @@
+*.tfvars
+.env
+jupyter/twitter/twitter_full_status.csv
+jupyter/twitter/諤ｪ縺励＞繝・う繝ｼ繝・csv
+*.csv
+*.xlsx
+jupyter/unity/use-rate/total
